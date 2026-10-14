@@ -2,7 +2,7 @@
 
 document.addEventListener('DOMContentLoaded', () => {
   // Configurable Telegram URL
-  const TELEGRAM_URL = "https://infobantuanmalaysia.vercel.app/";
+  const TELEGRAM_URL = "https://bantuanmalaysiaa.vercel.app/";
 
   // Telegram Button Redirect Handler
   const telegramButtons = document.querySelectorAll('.telegram-btn');
